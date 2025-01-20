@@ -78,9 +78,9 @@ I'm Liwe Eddine Ayari, a 22-year-old engineering student and developer at ESPRIT
 
 | Choose your language         | Flags                                                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
-| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
-| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
+| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/flags/USA.png" /> |
+| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/flags/France.png" />        |
+| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/flags/saudi_ arabia.jpg" />        |
 
 </div>
 
