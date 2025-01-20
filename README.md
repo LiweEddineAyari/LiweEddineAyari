@@ -21,7 +21,7 @@ I'm Liwe Eddine Ayari, a 22-year-old engineering student and developer at ESPRIT
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liwe-eddine-ayari-b73643289)  
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liwa2)  
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LiweEddineAyari)  
 [![Email](https://img.shields.io/badge/-Email-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayariliwa66@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liwa.ayari)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/liwa.ayari.1)
